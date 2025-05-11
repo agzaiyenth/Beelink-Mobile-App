@@ -196,8 +196,7 @@ export default function Profile() {
                       </div>
                     </div>
                   </div>
-
-                  {/* Order 2 */}
+                  
                   <div className="p-3 border rounded-md">
                     <div className="flex justify-between items-start mb-2">
                       <div>
